@@ -4,7 +4,10 @@
 ## ABOUT ME
 
 ![Photo 3d red dress girl generative ai](https://img.freepik.com/premium-photo/3d-red-dress-girl-generative-ai_384720-2589.jpg)
+
 NAME:  **KAREDDY INDIRA PRIYADARSHINI**
+
+
 DESCRIPTION:
 
 I am a dedicated person with an urge to learn and grow. My name is Indira and I feel life is a journey that leads to self-discovery.
