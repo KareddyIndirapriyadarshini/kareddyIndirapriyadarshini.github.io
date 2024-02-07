@@ -21,15 +21,15 @@ Overall I am an optimistic person who looks forward to life as a subject that te
 ## COURSE@IIT GOA
 >AUTUMN SEMESTER
 
-**CS102**	  *Clint Pazhayidam George*
-**MA101**     *Sandipan De*, *Shiv parsad*
-**ME101** *Priyabrata Sahoo*
-**PH101** *Sudipta*,*Santosh Kumar Das*
-**CH101** *Iyer*
-**CH102** *Raja Mitra*
-**ELPP** *Neeraja Raghavan*
-**HS** *Sabiha Hashami*
-**NO101** *Santosh*
+1.**CS102**	  *Clint Pazhayidam George*
+2.**MA101**     *Sandipan De*, *Shiv parsad*
+3.**ME101** *Priyabrata Sahoo*
+4.**PH101** *Sudipta*,*Santosh Kumar Das*
+5.**CH101** *Iyer*
+6.**CH102** *Raja Mitra*
+7.**ELPP** *Neeraja Raghavan*
+8.**HS** *Sabiha Hashami*
+9.**NO101** *Santosh*
 
 >SPRING SEMETER
 
