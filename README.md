@@ -25,25 +25,25 @@ Overall I am an optimistic person who looks forward to life as a subject that te
 ## COURSE@IIT GOA
 >AUTUMN SEMESTER
 
-1.**CS102**	  *Clint Pazhayidam George*
-2.**MA101**     *Sandipan De*, *Shiv parsad*
-3.**ME101** *Priyabrata Sahoo*
-4.**PH101** *Sudipta*,*Santosh Kumar Das*
-5.**CH101** *Iyer*
-6.**CH102** *Raja Mitra*
-7.**ELPP** *Neeraja Raghavan*
-8.**HS** *Sabiha Hashami*
-9.**NO101** *Santosh*
+1. **CS102**	  *Clint Pazhayidam George*
+2. **MA101**     *Sandipan De*, *Shiv parsad*
+3. **ME101** *Priyabrata Sahoo*
+4. **PH101** *Sudipta*,*Santosh Kumar Das*
+5. **CH101** *Iyer*
+6. **CH102** *Raja Mitra*
+7. **ELPP** *Neeraja Raghavan*
+8. **HS** *Sabiha Hashami*
+9. **NO101** *Santosh*
 
 >SPRING SEMETER
 
-**CS102** *Clint Pazhayidam George*
-**MA102** *Kalpesh Haria*
-**PH102** *Vaibhav Wasnik*,*Santosh Kumar*
-**BIO101** *Sreenath Balakrishnan*,*Nipa Chongdar*
-**NO102** *Santosh*
-**EE101** *Apeksha Madhukar*,*Bidhan Pramanick* 
-**ME102** *Arindam Das*
+- **CS102** *Clint Pazhayidam George*
+- **MA102** *Kalpesh Haria*
+- **PH102** *Vaibhav Wasnik*,*Santosh Kumar*
+- **BIO101** *Sreenath Balakrishnan*,*Nipa Chongdar*
+- **NO102** *Santosh*
+- **EE101** *Apeksha Madhukar*,*Bidhan Pramanick* 
+- **ME102** *Arindam Das*
 
 ## HOBBIES,INTERESTS,EXTRACURRICULAR ACTIVITIES,PROJECTS
 I love to paint. It is my hobby. I paint with water colours. I like to paint beautiful landscapes.I find my hobby refreshing to me. I keep all my paintings carefully. I have participated in different art exhibitions and painting competitions.I love to read. Reading is one of my hobby. I read books belonging to all genres. But it is adventure and mystery stories that keep me the most engaged. I enjoy reading Sherlock Holmes stories by Arthur Conan Doyle.
